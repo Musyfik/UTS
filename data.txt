@@ -1,0 +1,8 @@
+Nama Negara : Qatar
+Jumlah Pertandingan : 3
+Jumlah Menang: 2
+Jumlah Seri 1
+Jumlah Kalah : 0
+Jumlah Poin : 7
+nama : MUSYFIK UBAIDILLAH
+nim : 211011400038
